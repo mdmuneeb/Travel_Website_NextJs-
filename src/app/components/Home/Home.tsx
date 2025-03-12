@@ -9,7 +9,6 @@ import News from './News/News'
 import NewsLetter from './NewsLetter/NewsLetter'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import { MdEnergySavingsLeaf } from 'react-icons/md';
 
 
 const Home = () => {

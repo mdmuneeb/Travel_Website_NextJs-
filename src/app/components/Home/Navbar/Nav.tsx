@@ -2,7 +2,7 @@
 import { navLinks } from '@/app/constants/constants';
 import Link from 'next/link';
 import React, { useEffect, useState } from 'react'
-import { HiBars3BottomLeft, HiBars3BottomRight } from 'react-icons/hi2';
+import {HiBars3BottomRight } from 'react-icons/hi2';
 import { TbAirBalloon } from 'react-icons/tb';
 
 
